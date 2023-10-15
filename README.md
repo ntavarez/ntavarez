@@ -7,7 +7,7 @@ just a regular developer made in brazil. transiting between backend and frontend
 - *currently learning: javascript and css magics*
 - *what's the best linux distribuition and why it's debian?* 😆
 - *love for art & history* ❤️
-- *the secret to be a multitask person is do everything poorly.*
+- *the secret to be a multitask person is to do everything poorly.*
 - *sometimes I overact making jokes, as we can see above* ⬆️
 - *technology interests:*
   <p>
